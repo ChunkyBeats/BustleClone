@@ -1,0 +1,51 @@
+body {
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+.lorem {
+  margin: 0 70px;
+}
+.container ul {
+  /*text-align: right;*/
+  float: right;
+}
+
+.navbar {
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 2030000;
+}
+
+.carousel {
+  margin-top: 60px;
+}
+
+#myCarousel {
+  height: 600px;
+  overflow: hidden;
+}
+
+img {
+  height: 200px;
+}
+
+.navbar-nav li {
+  border-left: #eee solid 1px;
+}
+
+#page-title {
+  float: left;
+  font-size: 22px;
+  font-weight: bolder;
+  border-left: none;
+}
+
+#page-title a {
+  color: #000;
+}
+
+.item img {
+   display:block;
+    margin:auto;
+}
